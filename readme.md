@@ -10,7 +10,7 @@ Now let's make a link to [Wikipedia](https://wikipedia.org/)
 2. Enjoy pool
 3. Eat watermelon 
 
-|Pie name| |Number of pies|
-|--------| |--------------|
-|Cherry  | |2584          |
-
+| Pie Name | Number of Pies |
+|------------|-------------------|
+| Apple | 35252 |
+| Cherry | 34523523 |
